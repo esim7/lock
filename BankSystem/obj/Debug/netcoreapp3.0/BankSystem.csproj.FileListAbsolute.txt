@@ -1,0 +1,22 @@
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.exe
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.deps.json
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.runtimeconfig.json
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.runtimeconfig.dev.json
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.dll
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.pdb
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.AssemblyInfo.cs
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.dll
+C:\Users\МакишевЕ\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.pdb
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.exe
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.deps.json
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.runtimeconfig.json
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.runtimeconfig.dev.json
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.dll
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\bin\Debug\netcoreapp3.0\BankSystem.pdb
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.csprojAssemblyReference.cache
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.AssemblyInfo.cs
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.dll
+C:\Users\home\Desktop\09 12\09 12\BankSystem\BankSystem\obj\Debug\netcoreapp3.0\BankSystem.pdb
