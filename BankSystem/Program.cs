@@ -10,7 +10,7 @@ namespace BankSystem
     {
         static void Main(string[] args)
         {
-            object syncObject = new object();
+            //object syncObject = new object();
             
         BlockingCollection<Account> accounts = new BlockingCollection<Account>()
         {
@@ -45,7 +45,7 @@ namespace BankSystem
             Cash = 10000
             },
         };
-        for(int i = 0; i < 100; i++)
+        for(int i = 0; i < 1000; i++)
         {
             lock (accounts)
             {
